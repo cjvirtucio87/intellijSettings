@@ -3,7 +3,7 @@
     <property name="created">2017-03-03T09:08:24</property>
     <property name="ide">Idea</property>
     <property name="ideVersion">2016.3.4.0.0</property>
-    <property name="modified">2017-03-06T09:59:38</property>
+    <property name="modified">2017-03-06T10:01:01</property>
     <property name="originalScheme">Better VS Code</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.1" />
@@ -15,7 +15,7 @@
     <option name="ADDED_LINES_COLOR" value="295622" />
     <option name="CARET_COLOR" value="bbbbbb" />
     <option name="CARET_ROW_COLOR" value="282828" />
-    <option name="CONSOLE_BACKGROUND_KEY" value="111011" />
+    <option name="CONSOLE_BACKGROUND_KEY" value="373737" />
     <option name="FILESTATUS_ADDED" value="629755" />
     <option name="FILESTATUS_DELETED" value="6c6c6c" />
     <option name="FILESTATUS_IDEA_FILESTATUS_DELETED_FROM_FILE_SYSTEM" value="6c6c6c" />
