@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="MvcConfig" type="CLASS" />
+      <mapping ext="map" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
